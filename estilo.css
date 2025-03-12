@@ -1,0 +1,23 @@
+#s1{
+    background-color: aqua;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+}
+
+#s2{
+    background-color:red;
+    width: 150px;
+    text-align: center;
+}
+
+#s3{
+    background-color: gray;
+    width: 150px;
+    text-align: center;
+}
+
+.bloque{
+    margin: 20px;
+    border: 2px solid;
+}
